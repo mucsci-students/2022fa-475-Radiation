@@ -8,7 +8,7 @@ To play Mac:
   Run Radiation_Mac.app
   
 Developed By:
-  Matt Giacoponello
-  Noah Barger
+  Matt Giacoponello,
+  Noah Barger,
   Christian Liberatore
 
