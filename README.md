@@ -5,7 +5,10 @@ To play Windows:
   Run Radiation_windows.exe
 
 To play Mac: 
-  Run Radiation_Mac.app
+  Open Radiation_Mac.app/Contents -> MacOS -> Radiation_Mac
+
+Bug Warning
+  Occasionally the pause menu does not appear immediately upon starting a new game. To fix this A) Move from initial spawn, or B) hit Esc multiple times until it appears. It should be fully functional afterwards.
   
 Developed By:
   Matt Giacoponello,
