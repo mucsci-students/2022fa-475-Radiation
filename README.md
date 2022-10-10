@@ -2,11 +2,11 @@
 
 
 To play Windows:
-  Download Radiation_windows_Data folder\n
+  Download Radiation_windows_Data folder and Radiation_windows.exe
   Run Radiation_windows.exe
 
 To play Mac: 
-  Download Radiation_Mac.app/Contents folder\n
+  Download Radiation_Mac.app/Contents folder.
   Open Radiation_Mac.app/Contents -> MacOS -> Radiation_Mac
 
 Bug Warning:
