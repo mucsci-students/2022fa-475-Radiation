@@ -12,8 +12,9 @@ To play Mac:
 Bug Warning:
   Occasionally the pause menu does not appear immediately upon starting a new game. To fix this A) Move from initial spawn, or B) hit Esc multiple times until it appears. It should be fully functional afterwards.
  
-
- 
+Additional info:
+  Stay tuned for updates! (Windows only, because I (Matt) want to continue adding features.)
+  
 Developed By:
   Matt Giacoponello,
   Noah Barger,
