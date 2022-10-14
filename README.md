@@ -14,6 +14,9 @@ Bug Warning:
  
 Additional info:
   Stay tuned for updates! (Windows only, because I (Matt) want to continue adding features.)
+
+ANNOUNCEMENT:
+  The DLC has been released (for Windows)! Make sure to download Radiation_DLC.exe instead of Radiation_windows.exe. The DLC content is much more challenging than the base game.
   
 Developed By:
   Matt Giacoponello,
